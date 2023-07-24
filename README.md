@@ -3,4 +3,4 @@ This is a normal form validation page. I have used Regex to check the email veri
 
 This was the 2nd mini project my learning series i.e. 'Learning Js with Projects.' 
 
-Parallel to this series I'm going to start the series of 100 days of css. So, in coming future you will be able to see many mini prokects coming.
+Parallel to this series I'm going to start the series of 100 days of css. So, in coming future you will be able to see many mini projects coming.
